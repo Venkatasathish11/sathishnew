@@ -35,7 +35,7 @@
 						<muleVersion>4.7.0</muleVersion>
 						<username>sathishkasturi</username>
 						<password>Sathish@123</password>
-						<applicationName>jenkins</applicationName>
+						<applicationName>jenkinspipeline</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-1</region>
 						<workers>1</workers>
